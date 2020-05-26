@@ -1,4 +1,22 @@
 #  深入理解java虚拟机知识总结
 
-[jvm内存结构]: https://naotu.baidu.com/file/81eba9ab7abdc8fc0da586b95c45990b
+## 1.自动内存管理
+
+### 1.java内存区域与内存溢出
+
+#### 1.运行时数据区域
+
+1.程序计数器
+
+2.虚拟机栈
+
+3.本地方法栈
+
+4.Java堆
+
+5.方法区
+
+#### 2.hotSpot虚拟机对象探秘 
+
+#### 3.outOfMemoryError异常
 
