@@ -1,6 +1,6 @@
-[toc]
 
 
+[jvm脑图]( https://naotu.baidu.com/file/81eba9ab7abdc8fc0da586b95c45990b )
 
 # 深入理解java虚拟机知识总结
 
