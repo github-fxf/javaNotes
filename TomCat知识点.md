@@ -60,3 +60,9 @@ Tomcat的两个重要身份
 
 通过上面的讲解，我们发现Tomcat有两个非常重要的功能需要完成
 
+1) 和客户端浏览器进行交互，进行socket通信，将字节流和Request/Response等对象进行转换
+
+2）servlet容器处理业务逻辑
+
+![1603811357449](C:\Users\Qingyu\AppData\Roaming\Typora\typora-user-images\1603811357449.png)
+
