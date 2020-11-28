@@ -18,7 +18,7 @@
 
 #### 1. spring-boot-starter-parent依赖
 
-在charpter01项目中的pom.xml文件中找到spring-boot-starter-parent依赖，示例代码如下：
+在charpter01项目中的pom.xml文件中找到spring-boot-starter-parent依赖，示例代码如下1：
 
 ```
 <!-- Spring Boot父项目依赖管理 -->
