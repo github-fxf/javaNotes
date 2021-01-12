@@ -38,7 +38,7 @@ Tomcat的两个重要身份
 
 ### 2.2 Tomcat Servlet 容器处理流程
 
-当用户请求某个URL资源时 
+当用户请求某个URL资源时  
 
 1）HTTP服务器会把请求信息使用ServletRequest对象封装起来
 
