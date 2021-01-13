@@ -8,9 +8,7 @@
 
 http请求的处理过程
 
-![1600953418464](C:\Users\Qingyu\AppData\Roaming\Typora\typora-user-images\1600953418464.png)
-
-![1600953459094](C:\Users\Qingyu\AppData\Roaming\Typora\typora-user-images\1600953459094.png)
+![1600953418464](https://github.com/git-fanxiaofeng/javaNotes/blob/master/images/1600953418464.png)
 
 注意：浏览器访问服务器使用的是Http协议，Http是应用层协议，用于定义数据通信的格式，具体的数据传输使用的是TCP/IP协议。
 
